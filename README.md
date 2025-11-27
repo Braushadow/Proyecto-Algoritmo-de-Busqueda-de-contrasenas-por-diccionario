@@ -5,7 +5,7 @@ El algoritmo esta elaborado con la finalidad de comprobar la seguridad de las co
 
 ### Funcionamiento del programa 
 
-El programa cuenta con una interfaz realizada con Tkinter, donde el usuario puede:
+El programa cuenta con una interfaz realizada con Tkinter, donde el usuario puede: \
 -Establecer una contraseña objetivo  \
 -Elegir metodo de busqueda \
 -Iniciar/detener la ejecucion del programa \
