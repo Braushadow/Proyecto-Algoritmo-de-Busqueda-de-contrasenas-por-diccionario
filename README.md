@@ -6,11 +6,11 @@ El algoritmo esta elaborado con la finalidad de comprobar la seguridad de las co
 ### Funcionamiento del programa 
 
 El programa cuenta con una interfaz realizada con Tkinter, donde el usuario puede:
--Establecer una contraseña objetivo
--Elegir metodo de busqueda
--Iniciar/detener la ejecucion del programa
--Visualizar el registro de intentos 
--Utilizar entre distintos diccionarios de contraseñas
+-Establecer una contraseña objetivo  \
+-Elegir metodo de busqueda \
+-Iniciar/detener la ejecucion del programa \
+-Visualizar el registro de intentos \
+-Utilizar entre distintos diccionarios de contraseñas 
 
 
 ### Dependencias 
@@ -29,9 +29,9 @@ pip install matplotlib
 
 
 ### Conclusiones 
--El ataque por diccionario es una tecnica eficiente y rapida cuando la contraseña esta presente dentro del diccionario
--Un ataque de fuerza bruta por combinaciones es exponencial y escala mal conforme aumenta la longitud de la contraseña
--Divide y venceras ayuda al manejo y ataque de varias contraseñas a la vez, resolviendo problema con maypr velocidad 
--El metodo voraz con Huffman permite ahorrar espacio en el almacenamiento de los diccionarios
+-El ataque por diccionario es una tecnica eficiente y rapida cuando la contraseña esta presente dentro del diccionario \
+-Un ataque de fuerza bruta por combinaciones es exponencial y escala mal conforme aumenta la longitud de la contraseña \
+-Divide y venceras ayuda al manejo y ataque de varias contraseñas a la vez, resolviendo problema con maypr velocidad \
+-El metodo voraz con Huffman permite ahorrar espacio en el almacenamiento de los diccionarios 
 
 Attm: Los no GPU
