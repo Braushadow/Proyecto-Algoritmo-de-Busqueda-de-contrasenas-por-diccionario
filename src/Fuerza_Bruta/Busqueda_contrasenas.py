@@ -1,7 +1,6 @@
 """
-Simulador educativo — Fuerza bruta y diccionario (local).
+Simulador— Fuerza bruta y diccionario (local).
 """
-
 import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
 import threading
