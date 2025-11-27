@@ -6,8 +6,8 @@ de ejemplo, este funciona de manera independiente al descifrador y no tiene much
 
 Este algoritmo que solo utiliza fuerza bruta para averiguar contraseñas tiene una complejidad temporal Big O(Ch^max_len) donde:
 
-Ch es la cantidad de letras y/o numeros posibles para la contraseña\n
-max_len es el tamaño de la contraseña que fue ingresada
+Ch es la cantidad de letras y/o numeros posibles para la contraseña.
+max_len es el tamaño de la contraseña que fue ingresada.
 
 Como cualquier algoritmo de fuerza bruta, tiene una complejidad temporal exponencial.
 
